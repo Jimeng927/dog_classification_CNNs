@@ -1,17 +1,12 @@
-[//]: # (Image References)
-
-[image1]: ./images/targaryen_example.png "Sample Output1"
-[image2]: ./images/tibentan_example.png "Sample Output2"
-[image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
-
 
 ## Project Overview
 
 In this project, I use **Transfer Learning** with real-world, user-supplied images for multi-class classification.  Given an image of a dog, the algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
 
-![Sample Output1][image1]
 
-![Sample Output2][image2]
+Output example 1             |  Output example 2
+:-------------------------:|:-------------------------:
+![](./images/targaryen_example.png)  |  ![](./images/tibetan_example.png)
 
 Along with exploring state-of-the-art CNN models for classification, you will make important design decisions about the user experience for your app.  Our goal is that by completing this lab, you understand the challenges involved in piecing together a series of models designed to perform various tasks in a data processing pipeline.  Each model has its strengths and weaknesses, and engineering a real-world application often involves solving many problems without a perfect answer.  Your imperfect solution will nonetheless create a fun user experience!
 
