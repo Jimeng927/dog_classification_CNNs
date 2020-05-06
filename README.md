@@ -3,20 +3,20 @@
 
 In this project, I use **Transfer Learning** with real-world, user-supplied images for multi-class classification.  Given an image of a dog, the algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
 
+Here is what the output looks like:
+
+
 
 Output example 1             |  Output example 2
 :-------------------------:|:-------------------------:
 ![](./images/targaryen_example.png)  |  ![](./images/tibetan_example.png)
 
-Along with exploring state-of-the-art CNN models for classification, you will make important design decisions about the user experience for your app.  Our goal is that by completing this lab, you understand the challenges involved in piecing together a series of models designed to perform various tasks in a data processing pipeline.  Each model has its strengths and weaknesses, and engineering a real-world application often involves solving many problems without a perfect answer.  Your imperfect solution will nonetheless create a fun user experience!
 
 ## Project Instructions
 
-### Instructions
-
 1. Clone the repository and navigate to the downloaded folder.
 ```	
-git clone https://github.com/udacity/dog-project.git
+git clone https://github.com/Jimeng927/dog_classification_CNNs.git
 cd dog-project
 ```
 
