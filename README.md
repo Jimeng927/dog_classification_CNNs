@@ -11,6 +11,7 @@ Output example 1             |  Output example 2
 :-------------------------:|:-------------------------:
 ![](./images/targaryen_example.png)  |  ![](./images/tibetan_example.png)
 
+My blog is [here](https://medium.com/@jimeng.jiang/using-deep-learning-for-dog-breed-classification-f5f56609d8df).
 
 ## Project Instructions
 
